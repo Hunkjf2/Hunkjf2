@@ -16,6 +16,5 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/less.png" />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/sass.png" />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/html.png" />]
-
-
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/eduardo-ezequiel-371a8b145
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/js.png" />]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/ts.png" />]
