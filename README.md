@@ -10,6 +10,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="img/angular.png" />] <br><br>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="50px" src="img/angular.png" />] <br><br>
 
 [linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/eduardo-ezequiel-371a8b145
