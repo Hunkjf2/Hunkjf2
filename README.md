@@ -19,7 +19,6 @@
 <img align="left" width="80px" height="50px" src="img/reactnative.png" />
 <img align="left" width="50px" height="50px" src="img/bootstrap.png" />
 <img align="left" width="50px" height="50px" src="img/css.png" />
-<img align="left" width="70px" height="50px" src="img/less.png" />
 <img align="left" height="50px" src="img/sass.png" />
 <img align="left" width="50px" height="50px" src="img/html.png" />
 <img align="left" width="50px" height="50px" src="img/js.png" />
