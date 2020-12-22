@@ -26,4 +26,4 @@
 <img align="left" width="50px" height="50px" src="img/laravel.png" />
 <img align="left" width="50px" height="50px" src="img/symfony.png" />
 <img align="left" width="50px" height="50px" src="img/vscode.png" />
-<img align="left" width="50px" height="50px" src="img/vagas.png" />
+<img align="left" width="50px" height="50px" src="img/vegas.png" />
