@@ -4,7 +4,6 @@
 
 #### I work as a developer for 4 years, I am trained in information systems, I like and share knowledge through technology in favor of evolution.
 <br>
-
 ### Connect with me: <br>
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br><br>
