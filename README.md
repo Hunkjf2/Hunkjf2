@@ -19,6 +19,6 @@
 <img align="left" width="50px" height="50px" src="img/js.png" />
 <img align="left" width="50px" height="50px" src="img/ts.png" />
 <img align="left" width="50px" height="50px" src="img/node.png" />
-<img align="left" width="50px" height="50px" src="img/php.png" />
+<img align="left" width="80px" height="50px" src="img/php.png" />
 <img align="left" width="50px" height="50px" src="img/laravel.png" />
 <img align="left" width="50px" height="50px" src="img/symfony.png" />
