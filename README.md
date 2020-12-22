@@ -2,9 +2,11 @@
 
 # My name is Eduardo Ezequiel
 
+<br><br><br>
+
 ### Nationality: Brazilian 🇧🇷 🇧🇷 🇧🇷 🇧🇷
 
-### Connect with me: <br><br>
+### Connect with me: <br><br><br>
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br><br>
 
@@ -29,3 +31,7 @@
 <img align="left" width="50px" height="50px" src="img/symfony.png" />
 <img align="left" width="50px" height="50px" src="img/vscode.png" />
 <img align="left" width="80px" height="50px" src="img/vegas.png" />
+
+<br><br><br>
+
+[linkedin]: https://www.linkedin.com/in/eduardo-ezequiel-371a8b145/
