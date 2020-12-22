@@ -11,8 +11,8 @@
 ### Languages and Tools:
 
 <img align="left" width="50px" height="50px" src="img/angular.png" />
-<img align="left" width="50px" height="50px" src="img/reactjs.png" />
-<img align="left" width="50px" height="50px" src="img/reactnative.png" />
+<img align="left" width="80px" height="50px" src="img/reactjs.png" />
+<img align="left" width="80px" height="50px" src="img/reactnative.png" />
 <img align="left" width="50px" height="50px" src="img/bootstrap.png" />
 <img align="left" width="50px" height="50px" src="img/css.png" />
 <img align="left" width="70px" height="50px" src="img/less.png" />
