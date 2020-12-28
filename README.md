@@ -1,6 +1,6 @@
 # My name is Eduardo Ezequiel
 
-#### I work as a developer for 4 years, I am trained in information systems, I like and share knowledge through technology in favor of evolution.
+#### I work as a developer fullstack, I am trained in information systems, I like and share knowledge through technology in favor of evolution.
 
 <br>
 
