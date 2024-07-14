@@ -16,7 +16,7 @@
 
 <img align="left" width="50px" height="50px" src="img/angular.png" />
 <img align="left" width="80px" height="50px" src="img/reactjs.png" />
-<img align="left" width="80px" height="50px" src="img/reactnative.png" />
+<img align="left" width="80px" height="50px" src="img/nextjs.png" />
 <img align="left" width="50px" height="50px" src="img/bootstrap.png" />
 <img align="left" width="50px" height="50px" src="img/css.png" />
 <img align="left" height="50px" src="img/sass.png" />
@@ -28,6 +28,8 @@
 
 <img align="left" width="50px" height="50px" src="img/node.png" /> 
 <img align="left" width="80px" height="50px" src="img/php.png" />
+<img align="left" width="80px" height="50px" src="img/nest.png" />
+<img align="left" width="80px" height="50px" src="img/spring.png" />
 <img align="left" width="80px" height="50px" src="img/laravel.png" />
 <img align="left" width="50px" height="50px" src="img/symfony.png" />
 <img align="left" width="50px" height="50px" src="img/vscode.png" />
