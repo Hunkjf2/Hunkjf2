@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" width="50px" height="50px" src="img/angular.png" />
-<img align="left" width="80px" height="50px" src="img/reactjs.png" />
+<img align="left" width="80px" height="50px" src="img/react.png" />
 <img align="left" width="80px" height="50px" src="img/nextjs.jpg" />
 <img align="left" width="50px" height="50px" src="img/bootstrap.png" />
 <img align="left" width="50px" height="50px" src="img/css.png" />
