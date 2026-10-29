@@ -28,16 +28,13 @@ Sou Tech Lead e desenvolvedor fullstack, formado em Sistemas de Informação. Li
 
 ## Atividade
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake.svg" />
-  <img alt="Gráfico de contribuições com a cobra animada" src="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="img/atividade.svg" alt="Gráfico de atividade com uma cobra animada" width="700" />
 
 ## Vamos conversar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ezequiel-371a8b145/)
 [![Email](https://img.shields.io/badge/hunkjf2@hotmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunkjf2@hotmail.com)
 [![Baixar currículo](https://img.shields.io/badge/Baixar_curr%C3%ADculo-161b22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hunkjf2/Hunkjf2/raw/main/docs/Curriculo_Eduardo_Marcolino_ATS.pdf)
+[![Visualizar currículo](https://img.shields.io/badge/Visualizar_curr%C3%ADculo-161b22?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Hunkjf2/Hunkjf2/blob/main/docs/Curriculo_Eduardo_Marcolino_ATS.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1b2a41&height=100&section=footer" width="100%" alt="" />
