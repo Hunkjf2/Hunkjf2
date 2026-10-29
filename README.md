@@ -12,7 +12,7 @@ Juiz de Fora, MG — Brasil · Mais de 10 anos de experiência em desenvolviment
 
 ## Sobre mim
 
-Sou Tech Lead e desenvolvedor fullstack, formado em Sistemas de Informação. Lidero times em projetos com microsserviços, automatizo infraestrutura e entrego pipelines CI/CD, GitOps e DevSecOps com observabilidade de ponta a ponta. Gosto de compartilhar conhecimento através da tecnologia em favor da evolução.
+Sou Tech Lead e desenvolvedor fullstack, formado em Sistemas de Informação. Lidero times em projetos com microsserviços, automatizo infraestrutura e entrego pipelines CI/CD, GitOps e DevSecOps com observabilidade de ponta a ponta. Gosto de compartilhar conhecimento através da tecnologia em favor da evolução..
 
 ## Stack principal
 
