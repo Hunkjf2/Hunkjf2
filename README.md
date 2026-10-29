@@ -72,22 +72,24 @@ Sou Tech Lead e desenvolvedor fullstack, formado em Sistemas de Informação. Li
 
 ## Estudando agora
 
-- Pós-graduação em Engenharia de IA Aplicada — UNIPDS (2026–2027)
-- Desenvolvimento orientado a IA: SDD, RAG, MCP e Skills
-- Inglês — EnglishBay
+<img src="img/estudando.svg" alt="Estudando agora" width="700" />
 
 ## Trajetória
 
-| Período | Cargo | Empresa |
-| --- | --- | --- |
-| 2024 – atual | Tech Lead | Techlead IT Solutions |
-| 2022 – 2024 | Analista de Desenvolvimento Sênior | Techlead IT Solutions |
-| 2021 – 2022 | Analista de Desenvolvimento Pleno | Techlead IT Solutions |
-| 2019 – 2021 | Desenvolvedor Fullstack | Inspell Softwares |
+<img src="img/trajetoria.svg" alt="Trajetória profissional" width="700" />
+
+## Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake.svg" />
+  <img alt="Gráfico de contribuições com a cobra animada" src="https://raw.githubusercontent.com/Hunkjf2/Hunkjf2/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ## Vamos conversar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ezequiel-371a8b145/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunkjf2@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ezequiel-371a8b145/)
+[![Email](https://img.shields.io/badge/hunkjf2@hotmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunkjf2@hotmail.com)
+[![Baixar currículo](https://img.shields.io/badge/Baixar_curr%C3%ADculo-161b22?style=for-the-badge&logo=readthedocs&logoColor=white)](curriculo/Curriculo_Eduardo_Marcolino_ATS.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1b2a41&height=100&section=footer" width="100%" alt="" />
