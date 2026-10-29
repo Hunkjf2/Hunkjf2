@@ -28,7 +28,7 @@ Sou Tech Lead e desenvolvedor fullstack, formado em Sistemas de Informação. Li
 
 ## Atividade
 
-<img src="img/atividade.svg" alt="Gráfico de atividade com uma cobra animada" width="700" />
+<img src="img/atividade.svg" alt="Gráfico de atividade com uma cobra animada" width="100%" />
 
 ## Vamos conversar
 
