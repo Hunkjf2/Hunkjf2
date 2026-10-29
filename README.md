@@ -34,7 +34,6 @@ I'm a Tech Lead and fullstack developer with a degree in Information Systems. I 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ezequiel-371a8b145/)
 [![Email](https://img.shields.io/badge/hunkjf2@hotmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunkjf2@hotmail.com)
-[![Download resume](https://img.shields.io/badge/Download_resume-161b22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hunkjf2/Hunkjf2/raw/main/docs/Curriculo_Eduardo_Marcolino_ATS.pdf)
-[![View resume](https://img.shields.io/badge/View_resume-161b22?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Hunkjf2/Hunkjf2/blob/main/docs/Curriculo_Eduardo_Marcolino_ATS.pdf)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1b2a41&height=100&section=footer" width="100%" alt="" />
